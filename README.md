@@ -47,6 +47,10 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayan2310&theme=tokyonight&hide_border=true&background=0D1117&stroke=4CC9F0&ring=4CC9F0&fire=4CC9F0&currStreakLabel=4CC9F0" />
 
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/ayan2310/ayan2310/output/github-contribution-grid-snake.svg" width="100%"/>
+
 </div>
 
 <div align="center">
