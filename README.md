@@ -49,7 +49,7 @@
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/ayan2310/ayan2310/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/ayan2310/ayan2310/refs/heads/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
