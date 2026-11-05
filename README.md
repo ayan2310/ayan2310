@@ -1,68 +1,32 @@
-<div align="center">
+# Hi, I'm Muhammad Ayan
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1a2f,100:0f3460&height=220&section=header&text=Hi,%20I'm%20Ayan&fontSize=60&fontColor=4cc9f0&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20%7C%20Gamedev%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
+Computer science student at [HTBLA Leonding](https://www.htl-leonding.at) in Linz, Austria. I build full-stack web apps and enjoy working on developer tools and games.
 
-<a href="https://github.com/ayan2310">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=4CC9F0&center=true&vCenter=true&width=600&height=50&lines=Studying+at+HTL+Leonding+(3rd+grade);Building+games+%26+web+apps;Learning+SQL%2C+C%2C+C%2B%2B;Always+shipping+something+new" alt="Typing SVG" />
-</a>
+**Looking for a software development internship in summer 2027** (duration flexible).
 
-</div>
+[Email](mailto:m.ayan@students.htl-leonding.ac.at) · [GitHub](https://github.com/ayan2310)
 
-<br>
+## Achievements
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/gist/vn7n24fzkq/9a1bfc5f6cbfcc4922e7f5ba9dad3d9b/raw/aac68d3cae5aa8d68eafccd11c6bcf8bda78c5d0/coding.gif" />
+- **1st place** – Youth Entrepreneurship Week (YEW) 2026
+- **1st place overall** of 12 teams – MLH × YAIL Hacktoberfest HackDay 2026, plus Best Use of Gemma 4 and Best Open-Source AI Project ([results](https://github.com/LPuehringerStudent/tripwire#results))
+- **2nd place** – AI Hackathon, Ars Electronica Festival 2026
+- **2nd place** – Cloudflight Coding Contest 2026, School Track
 
-### About me
+## Projects
 
-- 🎮 Interested in **Game Dev** and side projects that push my skills
-- 🎓 3rd grade student at **HTL Leonding**
-- 🧠 Comfortable with **Java, C#, HTML, TypeScript, JavaScript, Angular**
-- 📚 Currently leveling up in **SQL, C, C++**
+| Project | What it is | Built with |
+|---|---|---|
+| [**Tripwire**](https://github.com/LPuehringerStudent/tripwire) | Training simulator for spotting phishing emails and scam calls | Rust, TypeScript, Gemma 4, ElevenLabs |
+| [**Ember Exchange**](https://github.com/LPuehringerStudent/EmberExchange) ([live](https://emberexchange.xyz)) | Collecting and trading game with real-time multiplayer. I worked on the Angular frontend, sprint planning and Jest tests | Angular, Express.js, PostgreSQL |
+| [**Auspex**](https://github.com/auspex-lang/auspex) | Open-source alternative to PL/SQL: a scripting language that compiles to bytecode for a stack VM | C, SQLite |
+| [**Stadttopia**](https://github.com/LPuehringerStudent/stadttopia) | Mayor game built on the City of Linz's open data, where the city negotiates back | Godot, GDScript |
+| [**LeoWay**](https://github.com/LPuehringerStudent/LeoWay) | Commute assistant for HTL Leonding students: timetable-aware transit alerts and delay appeals | Quarkus, Angular, PostgreSQL |
 
-<br clear="right"/>
+## Tech
 
-<div align="center">
-
-### 🛠️ Tech Stack
-
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=4CC9F0" />
-<img src="https://img.shields.io/badge/C%23-0a1a2f?style=for-the-badge&logo=csharp&logoColor=4CC9F0" />
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=4CC9F0" />
-<img src="https://img.shields.io/badge/TypeScript-0a1a2f?style=for-the-badge&logo=typescript&logoColor=4CC9F0" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=4CC9F0" />
-<img src="https://img.shields.io/badge/Angular-0a1a2f?style=for-the-badge&logo=angular&logoColor=4CC9F0" />
-<br>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=4CC9F0" />
-<img src="https://img.shields.io/badge/C-0a1a2f?style=for-the-badge&logo=c&logoColor=4CC9F0" />
-<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=4CC9F0" />
-<img src="https://img.shields.io/badge/Git-0a1a2f?style=for-the-badge&logo=git&logoColor=4CC9F0" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayan2310&theme=tokyonight&hide_border=true&background=0D1117&stroke=4CC9F0&ring=4CC9F0&fire=4CC9F0&currStreakLabel=4CC9F0" />
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/ayan2310/ayan2310/refs/heads/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
-
-<div align="center">
-
-### 🤝 Connect with me
-
-<a href="https://github.com/ayan2310"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=4CC9F0" /></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ayan2310&style=for-the-badge&color=0a1a2f&label=PROFILE+VIEWS" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:0a1a2f,100:000000&height=100&section=footer" width="100%"/>
+- **Languages:** C#, Java, Python, C, TypeScript, JavaScript
+- **Web:** Angular, Blazor, HTML, CSS
+- **Backend:** Express.js, ASP.NET, Quarkus, JPA
+- **Databases:** Oracle SQL, PL/SQL, PostgreSQL, SQLite
+- **Tools:** Git, GitHub, Jest, Visual Studio, Linux
